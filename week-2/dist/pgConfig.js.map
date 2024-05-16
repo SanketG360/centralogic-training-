@@ -1,1 +1,0 @@
-{"version":3,"file":"pgConfig.js","sourceRoot":"","sources":["../src/pgConfig.ts"],"names":[],"mappings":";;AAAA,2BAAwB;AAExB,MAAM,IAAI,GAAG,IAAI,SAAI,CAAC;IAClB,IAAI,EAAC,UAAU;IACf,IAAI,EAAC,WAAW;IAChB,QAAQ,EAAC,WAAW;IACpB,QAAQ,EAAC,KAAK;IACd,IAAI,EAAC,IAAI;CACZ,CAAC,CAAC;AAEH,kBAAe,IAAI,CAAC"}
